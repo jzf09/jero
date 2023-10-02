@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Agenda>
+    <Contactos>
+        <Contacto>
+            <nombre>jeronimo</nombre>
+            <apellidos>zamorano fretes</apellidos>
+            <direccion> 
+                <tipo tipo="calle"> Vargas </tipo>
+                <tipo tipo="numero"> 22 </tipo>
+                <tipo tipo="piso"> 3 </tipo>
+                <tipo tipo="letra"> A </tipo>
+            </direccion>
+            <telefonos>
+                <telefono tipo="movil">658658658</telefono>
+                <telefono tipo="fijo">9429429424</telefono>
+                <telefono tipo="trabajo">925925925</telefono>
+            </telefonos>
+        </Contacto>
+
+        <Contacto2>
+             <nombre>Alejandro</nombre>
+            <apellidos>Garcia Fernandez</apellidos>
+            <direccion> 
+                <tipo tipo="Via"> cornelia</tipo>
+                <tipo tipo="numero"> 5 </tipo>
+                <tipo tipo="piso"> 7 </tipo>
+                <tipo tipo="letra"> B </tipo>
+            </direccion>
+            <telefonos>
+                <telefono tipo="movil">65865225</telefono>
+                <telefono tipo="fijo">942941218</telefono>
+                <telefono tipo="trabajo">92594789</telefono>
+            </telefonos>
+            </Contacto2>
+
+            <Contacto3>
+                 <nombre>Alba</nombre>
+            <apellidos>Fernandez Gomez</apellidos>
+            <direccion> 
+                <tipo tipo="Calle"> Burgos</tipo>
+                <tipo tipo="numero"> 10 </tipo>
+                <tipo tipo="piso"> 1 </tipo>
+                <tipo tipo="letra"> C</tipo>
+            </direccion>
+            <telefonos>
+                <telefono tipo="movil">12365225</telefono>
+                <telefono tipo="fijo">912541218</telefono>
+                <telefono tipo="trabajo">92894789</telefono>
+            </telefonos>
+            </Contacto3>
+
+    </Contactos>
+    </Agenda>
+
